@@ -43,8 +43,8 @@ More projects coming soon!
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Add your LinkedIn profile URL]
-- GitHub: [Add your GitHub profile URL]
+- LinkedIn: www.linkedin.com/in/rithu-krishna-p-6b1493272
+- GitHub: https://github.com/rithukrishna444-sudo
 
 ---
 
