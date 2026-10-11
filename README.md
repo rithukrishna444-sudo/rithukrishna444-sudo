@@ -1,51 +1,15 @@
-# Hi, I'm an ECE Student 👋
+👋 Hi, I'm an ECE student and tech enthusiast passionate about technology, programming, and innovation.
 
-🎓 Electronics and Communication Engineering Student  
-💡 Tech Enthusiast | Aspiring AI & Software Developer
-
-I'm an ECE student passionate about exploring the intersection of electronics, programming, and artificial intelligence.
-
-I enjoy learning by building projects, experimenting with new technologies, and solving real-world problems.
-
-## 🚀 What I'm Exploring
-
-- 🤖 Artificial Intelligence and AI-assisted development
-- 💻 Python, C/C++ and JavaScript
+🚀 Currently exploring:
+- 🤖 Artificial Intelligence and Machine Learning
+- 💻 C++, Python, and software development
 - ⚡ Electronics and Embedded Systems
-- 🌐 Web Development
-- 🔌 IoT and Microcontrollers
+- 📈 High-Frequency Trading (HFT) and Quantitative Finance
+- 🧠 Data Structures, Algorithms, and Problem Solving
 
-## 🛠️ Technologies I'm Learning
+🔭 I enjoy learning new technologies, building projects, and exploring how software and hardware work together.
 
-- **Languages:** Python, C, C++, JavaScript
-- **Web:** HTML, CSS
-- **Tools:** Git, GitHub, VS Code
-- **Deployment:** Netlify
+🎯 My goal is to develop strong technical skills and build efficient, real-world solutions.
 
-## 📂 Projects
+🌱 Always learning, building, and improving.
 
-### 📘 Matrix Mathematics Study Guide Website
-A web project focused on making matrix mathematics learning resources accessible online.
-
-- Built with HTML, CSS and JavaScript
-- Deployed using Netlify
-- Developed with assistance from AI coding tools
-
-More projects coming soon!
-
-## 🎯 My Goals
-
-- Build practical projects and document my learning
-- Develop strong programming and problem-solving skills
-- Explore AI, embedded systems and IoT
-- Contribute to open-source projects
-- Connect with developers and engineers
-
-## 📫 Let's Connect
-
-- LinkedIn: www.linkedin.com/in/rithu-krishna-p-6b1493272
-- GitHub: https://github.com/rithukrishna444-sudo
-
----
-
-*Learning continuously. Building consistently. Exploring technology.* 🚀
